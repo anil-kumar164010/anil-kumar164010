@@ -5,10 +5,12 @@ Python | Django
 📧 Email: anil.kumar164010@gmail.com | 📞 Mobile: 7073349314
 
 👨‍💻 SR. PYTHON DEVELOPER
+
     A self-motivated Python Developer with over 4.5+ years of experience in developing web applications using cutting-edge technologies like Python Django, REST APIs, and more.
     A quick learner with excellent problem-solving skills, proficient in architecture, solution designing, and executing end-to-end software development processes.
 
 🚀 TECHNICAL SKILLS
+
     Languages: Python
     Frameworks: Django, Django REST Framework, FastAPI
     Databases: MySQL, PostgreSQL, SQLite, MongoDB
@@ -22,6 +24,7 @@ Python | Django
     Other: Django Signals, Django ORM, Django Channels, throttling, pagination, logging
     
 💼 EXPERIENCE
+
     Sr. Software Developer
     Techqware Technologies Pvt. Ltd. (June 2021 – Present)
     
@@ -34,7 +37,9 @@ Python | Django
     
     Worked on MVC frameworks to build scalable backend systems.
     Fixed bugs and enhanced application performance.
+    
 🎓 EDUCATION
+
     Bachelor of Computer Application
     University of Rajasthan
     Pilani, Jhunjhunu, India (June 2014 – July 2017)
