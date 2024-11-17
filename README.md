@@ -45,39 +45,40 @@ Python | Django
     Pilani, Jhunjhunu, India (June 2014 – July 2017)
 
 🌟 PROJECTS
-    Parliament Video Library
 
-      Tech Stack: Python, Django, PostgreSQL, HLS, SSO, JWT, Docker
-      Developed a secure streaming platform offering seamless playback on various devices.
-      DrinkWatr
-      
-      Tech Stack: Python, Django, PyTest, DreamHost
-      Built a hydration tracking platform with community support and personalized tracking.
-  Sergo
-      
-      Tech Stack: Python, Django, Celery, RabbitMQ, Docker
-      Developed scalable web streaming solutions with HLS and advanced microservices.
-      HDFC Mosaic
-      
-      Tech Stack: Python, Django, AWS, SQLite
-      Implemented a marketing initiative celebrating women’s achievements and gender equality.
-      Peppermynt
-      
-      Tech Stack: Python, Django, REST APIs
-      Managed multi-business modules for restaurants, hotels, and cinemas.
-  Chatbot/NLP Microservice
-      
-      Tech Stack: Python, NLTK, SpaCy
-      Created a chatbot handling customer support, FAQs, and user feedback.
-  Video-to-Text Transcription Microservice
-      
-      Tech Stack: moviepy, speech recognition, PocketSphinx
-      Developed a system to transcribe audio from video using advanced speech recognition.
-      Web Scraping and Automation Microservice
-      
-      Tech Stack: Selenium, ChromeDriver, Stealth
-      Automated data extraction with advanced anti-scraping techniques and concurrent processing.
-      
+    Parliament Video Library
+    
+          Tech Stack: Python, Django, PostgreSQL, HLS, SSO, JWT, Docker
+          Developed a secure streaming platform offering seamless playback on various devices.
+          DrinkWatr
+          
+          Tech Stack: Python, Django, PyTest, DreamHost
+          Built a hydration tracking platform with community support and personalized tracking.
+      Sergo
+          
+          Tech Stack: Python, Django, Celery, RabbitMQ, Docker
+          Developed scalable web streaming solutions with HLS and advanced microservices.
+          HDFC Mosaic
+          
+          Tech Stack: Python, Django, AWS, SQLite
+          Implemented a marketing initiative celebrating women’s achievements and gender equality.
+          Peppermynt
+          
+          Tech Stack: Python, Django, REST APIs
+          Managed multi-business modules for restaurants, hotels, and cinemas.
+      Chatbot/NLP Microservice
+          
+          Tech Stack: Python, NLTK, SpaCy
+          Created a chatbot handling customer support, FAQs, and user feedback.
+      Video-to-Text Transcription Microservice
+          
+          Tech Stack: moviepy, speech recognition, PocketSphinx
+          Developed a system to transcribe audio from video using advanced speech recognition.
+          Web Scraping and Automation Microservice
+          
+          Tech Stack: Selenium, ChromeDriver, Stealth
+          Automated data extraction with advanced anti-scraping techniques and concurrent processing.
+          
 📫 CONNECT WITH ME
 Feel free to reach out for collaboration or inquiries!
 📧 Email: anil.kumar164010@gmail.com
